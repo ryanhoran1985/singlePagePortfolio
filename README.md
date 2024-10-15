@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/readmePreview.png)
+![](./starter-code/assets/images/readmePreview.png)
 
 ### Links
 
